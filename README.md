@@ -1,6 +1,13 @@
 # 💫 About Me:
-Hello there! I'm Munaf Kazi, a 19 year old second-year Software Development student at TUS (US820). I'm passionate about gaming, STEM, and automotive projects, and I love turning ideas into real, practical solutions using C++, C#, SQL, and web development. I've completed certifications like JLR: Into the Future, 
-Crash Course: Docker For Absolute Beginners, and Postman, and I'm always learning new skills. When I'm not coding, you'll find me on the football pitch or at the gym, staying active and focused. Take a look through my github to learn more about me and my works!
+I’m Munaf Kazi, a second-year Software Development student at TUS (US820) with a strong focus on building reliable, real-world software. My interests sit at the intersection of engineering, gaming, and automotive technology, where performance, structure, and problem-solving actually matter.
+
+I primarily work with C++ and C#, backed by SQL and web technologies, and I enjoy designing systems that are efficient, maintainable, and practical rather than over-engineered. Through both coursework and independent projects, I have developed experience with APIs, backend logic, and modern development workflows.
+
+I have completed industry-aligned certifications including JLR: Into the Future, Docker for Beginners, and Postman, which strengthened my understanding of containerisation, API communication, and professional software practices. I focus on learning by building, testing, and refining projects beyond minimum requirements.
+
+Outside of software, I stay active through football and gym training, which reinforces discipline, consistency, and long-term focus. These are the same traits I apply when learning new technologies or tackling complex technical problems.
+
+You can explore my GitHub to see my projects, coding approach, and ongoing development as a software engineer.
 
 
 # 💻 Tech Stack:
